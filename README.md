@@ -9,9 +9,6 @@ Môi trường `.venv` đã được chuẩn bị với Python Windows, NumPy, M
 ```powershell
 .\.venv\Scripts\python.exe start.py
 ```
-
-Môi trường `delta_robot/` có sẵn là Python MSYS2. Dự án dùng `.venv/` riêng với Python Windows để tương thích các thư viện đồ họa; giữ nguyên môi trường MSYS2.
-
 ## Cài mới trên máy khác
 
 Dùng Python 3.10 trở lên (bản Windows chính thức có Tcl/Tk):
